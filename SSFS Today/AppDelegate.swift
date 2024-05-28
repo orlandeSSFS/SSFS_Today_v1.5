@@ -3,7 +3,8 @@
 //  SSFS Today
 //
 //  Created by Brian Wilkinson on 9/14/17 on behalf of Sandy Spring Friends School
-//  Copyright © 2017 SSFS. All rights reserved.
+//  Updated by Eva in 2024
+//  Copyright © 2024 SSFS. All rights reserved.
 //
 //
 
