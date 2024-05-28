@@ -266,7 +266,7 @@
 				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 0830;
 				LastUpgradeCheck = 1430;
-				ORGANIZATIONNAME = "Brian Wilkinson";
+				ORGANIZATIONNAME = "Demetri Orlando";
 				TargetAttributes = {
 					D39DB5101F680CFE0074E952 = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -536,12 +536,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1.50;
 				DEVELOPMENT_TEAM = 64643K84XW;
 				INFOPLIST_FILE = "SSFS Today/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.50;
 				PRODUCT_BUNDLE_IDENTIFIER = org.ssfs.SSFSToday;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -552,12 +554,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CURRENT_PROJECT_VERSION = 1.50;
 				DEVELOPMENT_TEAM = 64643K84XW;
 				INFOPLIST_FILE = "SSFS Today/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.50;
 				PRODUCT_BUNDLE_IDENTIFIER = org.ssfs.SSFSToday;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
